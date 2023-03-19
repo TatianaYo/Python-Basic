@@ -5,11 +5,6 @@ number = int(input('Enter number: '))
 
 print(hex(number))
 
-#while number > 0:
-#    number16 = number % 16
- #   if number16 == 10: number: str = a
-  #  if number16 == 10: number: str = a
-   # res = str
 res = ''
 hexadecimal_sys = '0123456789ABCDEF'
  
