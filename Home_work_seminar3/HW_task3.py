@@ -12,15 +12,11 @@ s = '''Emancipation generally means to free a person from a previous restraint o
     or other "private" characteristics of individual people."'''
 punct = ',.!?:;"()'
 
-#list1 = [word.rstrip(punct) for word in s.split() if len(word.rstrip(punct)) > 1]
-#print(*sorted(set(list1), key=list1.count, reverse=True)[:10], sep='\n')
-
-
-
 res = len(s.split())
 print('Количество слов = ', + res)
+
 s = s.split()
-#print(s)
+
 for word in s:
     if len(word.rstrip(punct)) > 1:
         word.rstrip(punct)
