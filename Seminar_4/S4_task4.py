@@ -11,7 +11,6 @@ def elem_sort(a: list) -> None:
             if a[i] > a[i+1]:
                 a[i], a[i+1] = a[i+1], a[i]
         n += 1
-    #return a
 
 
 list1 = list((1, 4, 7, 5, 9, 2, 1, 6, 5))
