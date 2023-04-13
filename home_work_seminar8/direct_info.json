@@ -1,0 +1,1878 @@
+{
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic": {
+    ".git": {
+      "size": 95496,
+      "file_or_dir": "directory"
+    },
+    ".idea": {
+      "size": 14029,
+      "file_or_dir": "directory"
+    },
+    "Home_work_seminar1": {
+      "size": 2084,
+      "file_or_dir": "directory"
+    },
+    "Home_work_seminar2": {
+      "size": 1256,
+      "file_or_dir": "directory"
+    },
+    "Home_work_seminar3": {
+      "size": 3654,
+      "file_or_dir": "directory"
+    },
+    "Home_work_seminar4": {
+      "size": 1871,
+      "file_or_dir": "directory"
+    },
+    "Home_work_seminar5": {
+      "size": 1719,
+      "file_or_dir": "directory"
+    },
+    "Home_work_seminar6": {
+      "size": 2747,
+      "file_or_dir": "directory"
+    },
+    "home_work_seminar7": {
+      "size": 17321,
+      "file_or_dir": "directory"
+    },
+    "home_work_seminar8": {
+      "size": 18557,
+      "file_or_dir": "directory"
+    },
+    "Seminar_3": {
+      "size": 3592,
+      "file_or_dir": "directory"
+    },
+    "Seminar_4": {
+      "size": 3639,
+      "file_or_dir": "directory"
+    },
+    "Seminar_5": {
+      "size": 4477,
+      "file_or_dir": "directory"
+    },
+    "Seminar_6": {
+      "size": 7921,
+      "file_or_dir": "directory"
+    },
+    "seminar_8": {
+      "size": 2997,
+      "file_or_dir": "directory"
+    },
+    ".gitignore": {
+      "size": 1928,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git": {
+    "hooks": {
+      "size": 23513,
+      "file_or_dir": "directory"
+    },
+    "info": {
+      "size": 240,
+      "file_or_dir": "directory"
+    },
+    "logs": {
+      "size": 9801,
+      "file_or_dir": "directory"
+    },
+    "objects": {
+      "size": 42092,
+      "file_or_dir": "directory"
+    },
+    "refs": {
+      "size": 112,
+      "file_or_dir": "directory"
+    },
+    ".COMMIT_EDITMSG.swp": {
+      "size": 12288,
+      "file_or_dir": "file"
+    },
+    "COMMIT_EDITMSG": {
+      "size": 20,
+      "file_or_dir": "file"
+    },
+    "config": {
+      "size": 304,
+      "file_or_dir": "file"
+    },
+    "description": {
+      "size": 73,
+      "file_or_dir": "file"
+    },
+    "HEAD": {
+      "size": 21,
+      "file_or_dir": "file"
+    },
+    "index": {
+      "size": 6920,
+      "file_or_dir": "file"
+    },
+    "packed-refs": {
+      "size": 112,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\hooks": {
+    "applypatch-msg.sample": {
+      "size": 478,
+      "file_or_dir": "file"
+    },
+    "commit-msg.sample": {
+      "size": 896,
+      "file_or_dir": "file"
+    },
+    "fsmonitor-watchman.sample": {
+      "size": 4726,
+      "file_or_dir": "file"
+    },
+    "post-update.sample": {
+      "size": 189,
+      "file_or_dir": "file"
+    },
+    "pre-applypatch.sample": {
+      "size": 424,
+      "file_or_dir": "file"
+    },
+    "pre-commit.sample": {
+      "size": 1643,
+      "file_or_dir": "file"
+    },
+    "pre-merge-commit.sample": {
+      "size": 416,
+      "file_or_dir": "file"
+    },
+    "pre-push.sample": {
+      "size": 1374,
+      "file_or_dir": "file"
+    },
+    "pre-rebase.sample": {
+      "size": 4898,
+      "file_or_dir": "file"
+    },
+    "pre-receive.sample": {
+      "size": 544,
+      "file_or_dir": "file"
+    },
+    "prepare-commit-msg.sample": {
+      "size": 1492,
+      "file_or_dir": "file"
+    },
+    "push-to-checkout.sample": {
+      "size": 2783,
+      "file_or_dir": "file"
+    },
+    "update.sample": {
+      "size": 3650,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\info": {
+    "exclude": {
+      "size": 240,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\logs": {
+    "refs": {
+      "size": 6506,
+      "file_or_dir": "directory"
+    },
+    "HEAD": {
+      "size": 3295,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\logs\\refs": {
+    "heads": {
+      "size": 3295,
+      "file_or_dir": "directory"
+    },
+    "remotes": {
+      "size": 3211,
+      "file_or_dir": "directory"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\logs\\refs\\heads": {
+    "main": {
+      "size": 3295,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\logs\\refs\\remotes": {
+    "origin": {
+      "size": 3211,
+      "file_or_dir": "directory"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\logs\\refs\\remotes\\origin": {
+    "HEAD": {
+      "size": 187,
+      "file_or_dir": "file"
+    },
+    "main": {
+      "size": 3024,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects": {
+    "00": {
+      "size": 335,
+      "file_or_dir": "directory"
+    },
+    "01": {
+      "size": 158,
+      "file_or_dir": "directory"
+    },
+    "03": {
+      "size": 919,
+      "file_or_dir": "directory"
+    },
+    "06": {
+      "size": 718,
+      "file_or_dir": "directory"
+    },
+    "07": {
+      "size": 363,
+      "file_or_dir": "directory"
+    },
+    "0c": {
+      "size": 204,
+      "file_or_dir": "directory"
+    },
+    "0e": {
+      "size": 55,
+      "file_or_dir": "directory"
+    },
+    "0f": {
+      "size": 172,
+      "file_or_dir": "directory"
+    },
+    "10": {
+      "size": 142,
+      "file_or_dir": "directory"
+    },
+    "15": {
+      "size": 1346,
+      "file_or_dir": "directory"
+    },
+    "17": {
+      "size": 535,
+      "file_or_dir": "directory"
+    },
+    "19": {
+      "size": 152,
+      "file_or_dir": "directory"
+    },
+    "1b": {
+      "size": 387,
+      "file_or_dir": "directory"
+    },
+    "1c": {
+      "size": 142,
+      "file_or_dir": "directory"
+    },
+    "1f": {
+      "size": 162,
+      "file_or_dir": "directory"
+    },
+    "22": {
+      "size": 190,
+      "file_or_dir": "directory"
+    },
+    "24": {
+      "size": 513,
+      "file_or_dir": "directory"
+    },
+    "26": {
+      "size": 63,
+      "file_or_dir": "directory"
+    },
+    "27": {
+      "size": 1130,
+      "file_or_dir": "directory"
+    },
+    "28": {
+      "size": 413,
+      "file_or_dir": "directory"
+    },
+    "29": {
+      "size": 562,
+      "file_or_dir": "directory"
+    },
+    "2f": {
+      "size": 989,
+      "file_or_dir": "directory"
+    },
+    "32": {
+      "size": 140,
+      "file_or_dir": "directory"
+    },
+    "33": {
+      "size": 154,
+      "file_or_dir": "directory"
+    },
+    "35": {
+      "size": 140,
+      "file_or_dir": "directory"
+    },
+    "37": {
+      "size": 445,
+      "file_or_dir": "directory"
+    },
+    "39": {
+      "size": 233,
+      "file_or_dir": "directory"
+    },
+    "3a": {
+      "size": 298,
+      "file_or_dir": "directory"
+    },
+    "40": {
+      "size": 110,
+      "file_or_dir": "directory"
+    },
+    "41": {
+      "size": 869,
+      "file_or_dir": "directory"
+    },
+    "44": {
+      "size": 96,
+      "file_or_dir": "directory"
+    },
+    "46": {
+      "size": 259,
+      "file_or_dir": "directory"
+    },
+    "48": {
+      "size": 697,
+      "file_or_dir": "directory"
+    },
+    "4e": {
+      "size": 1218,
+      "file_or_dir": "directory"
+    },
+    "4f": {
+      "size": 259,
+      "file_or_dir": "directory"
+    },
+    "51": {
+      "size": 358,
+      "file_or_dir": "directory"
+    },
+    "53": {
+      "size": 179,
+      "file_or_dir": "directory"
+    },
+    "54": {
+      "size": 339,
+      "file_or_dir": "directory"
+    },
+    "56": {
+      "size": 115,
+      "file_or_dir": "directory"
+    },
+    "57": {
+      "size": 566,
+      "file_or_dir": "directory"
+    },
+    "59": {
+      "size": 315,
+      "file_or_dir": "directory"
+    },
+    "5b": {
+      "size": 51,
+      "file_or_dir": "directory"
+    },
+    "5d": {
+      "size": 73,
+      "file_or_dir": "directory"
+    },
+    "60": {
+      "size": 79,
+      "file_or_dir": "directory"
+    },
+    "63": {
+      "size": 389,
+      "file_or_dir": "directory"
+    },
+    "6a": {
+      "size": 553,
+      "file_or_dir": "directory"
+    },
+    "72": {
+      "size": 704,
+      "file_or_dir": "directory"
+    },
+    "73": {
+      "size": 805,
+      "file_or_dir": "directory"
+    },
+    "78": {
+      "size": 271,
+      "file_or_dir": "directory"
+    },
+    "79": {
+      "size": 529,
+      "file_or_dir": "directory"
+    },
+    "7f": {
+      "size": 651,
+      "file_or_dir": "directory"
+    },
+    "83": {
+      "size": 534,
+      "file_or_dir": "directory"
+    },
+    "85": {
+      "size": 229,
+      "file_or_dir": "directory"
+    },
+    "88": {
+      "size": 79,
+      "file_or_dir": "directory"
+    },
+    "8b": {
+      "size": 135,
+      "file_or_dir": "directory"
+    },
+    "8e": {
+      "size": 230,
+      "file_or_dir": "directory"
+    },
+    "8f": {
+      "size": 165,
+      "file_or_dir": "directory"
+    },
+    "90": {
+      "size": 172,
+      "file_or_dir": "directory"
+    },
+    "92": {
+      "size": 82,
+      "file_or_dir": "directory"
+    },
+    "94": {
+      "size": 443,
+      "file_or_dir": "directory"
+    },
+    "95": {
+      "size": 920,
+      "file_or_dir": "directory"
+    },
+    "96": {
+      "size": 236,
+      "file_or_dir": "directory"
+    },
+    "97": {
+      "size": 66,
+      "file_or_dir": "directory"
+    },
+    "98": {
+      "size": 395,
+      "file_or_dir": "directory"
+    },
+    "99": {
+      "size": 158,
+      "file_or_dir": "directory"
+    },
+    "9c": {
+      "size": 482,
+      "file_or_dir": "directory"
+    },
+    "9d": {
+      "size": 155,
+      "file_or_dir": "directory"
+    },
+    "a3": {
+      "size": 456,
+      "file_or_dir": "directory"
+    },
+    "a4": {
+      "size": 408,
+      "file_or_dir": "directory"
+    },
+    "a9": {
+      "size": 147,
+      "file_or_dir": "directory"
+    },
+    "ab": {
+      "size": 515,
+      "file_or_dir": "directory"
+    },
+    "ac": {
+      "size": 301,
+      "file_or_dir": "directory"
+    },
+    "ae": {
+      "size": 461,
+      "file_or_dir": "directory"
+    },
+    "b1": {
+      "size": 155,
+      "file_or_dir": "directory"
+    },
+    "b2": {
+      "size": 284,
+      "file_or_dir": "directory"
+    },
+    "b5": {
+      "size": 498,
+      "file_or_dir": "directory"
+    },
+    "b9": {
+      "size": 781,
+      "file_or_dir": "directory"
+    },
+    "c0": {
+      "size": 802,
+      "file_or_dir": "directory"
+    },
+    "c1": {
+      "size": 78,
+      "file_or_dir": "directory"
+    },
+    "c3": {
+      "size": 156,
+      "file_or_dir": "directory"
+    },
+    "c6": {
+      "size": 151,
+      "file_or_dir": "directory"
+    },
+    "c7": {
+      "size": 387,
+      "file_or_dir": "directory"
+    },
+    "c8": {
+      "size": 158,
+      "file_or_dir": "directory"
+    },
+    "ca": {
+      "size": 214,
+      "file_or_dir": "directory"
+    },
+    "cb": {
+      "size": 1309,
+      "file_or_dir": "directory"
+    },
+    "cc": {
+      "size": 357,
+      "file_or_dir": "directory"
+    },
+    "cf": {
+      "size": 599,
+      "file_or_dir": "directory"
+    },
+    "d0": {
+      "size": 210,
+      "file_or_dir": "directory"
+    },
+    "d1": {
+      "size": 161,
+      "file_or_dir": "directory"
+    },
+    "d8": {
+      "size": 371,
+      "file_or_dir": "directory"
+    },
+    "d9": {
+      "size": 179,
+      "file_or_dir": "directory"
+    },
+    "da": {
+      "size": 166,
+      "file_or_dir": "directory"
+    },
+    "de": {
+      "size": 308,
+      "file_or_dir": "directory"
+    },
+    "df": {
+      "size": 333,
+      "file_or_dir": "directory"
+    },
+    "e0": {
+      "size": 115,
+      "file_or_dir": "directory"
+    },
+    "e1": {
+      "size": 275,
+      "file_or_dir": "directory"
+    },
+    "e3": {
+      "size": 650,
+      "file_or_dir": "directory"
+    },
+    "e6": {
+      "size": 168,
+      "file_or_dir": "directory"
+    },
+    "e9": {
+      "size": 866,
+      "file_or_dir": "directory"
+    },
+    "ed": {
+      "size": 141,
+      "file_or_dir": "directory"
+    },
+    "ee": {
+      "size": 154,
+      "file_or_dir": "directory"
+    },
+    "ef": {
+      "size": 634,
+      "file_or_dir": "directory"
+    },
+    "f2": {
+      "size": 107,
+      "file_or_dir": "directory"
+    },
+    "f4": {
+      "size": 640,
+      "file_or_dir": "directory"
+    },
+    "f9": {
+      "size": 191,
+      "file_or_dir": "directory"
+    },
+    "fc": {
+      "size": 457,
+      "file_or_dir": "directory"
+    },
+    "info": {
+      "size": 0,
+      "file_or_dir": "directory"
+    },
+    "pack": {
+      "size": 2723,
+      "file_or_dir": "directory"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\00": {
+    "09cb06398671745e3792afa1c190d4c6ae189b": {
+      "size": 179,
+      "file_or_dir": "file"
+    },
+    "2687562496308ab1e7e52acdc05be046264f07": {
+      "size": 156,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\01": {
+    "9a04c1f67e5e50bf2292dec30a8d1d5accc55d": {
+      "size": 158,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\03": {
+    "6ddd0f346f90aaa2eece2e6efbf35a78773f19": {
+      "size": 804,
+      "file_or_dir": "file"
+    },
+    "7e8c097e638884219c6fbbbb5063400572bdc1": {
+      "size": 115,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\06": {
+    "4d90906e6c908bf2fd5cea5e337a2c4f91f81c": {
+      "size": 158,
+      "file_or_dir": "file"
+    },
+    "c6e2912fce7ebd12155466835a2a260454f702": {
+      "size": 560,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\07": {
+    "6895db1b428eeff77a13214116ac5d7f1e9adb": {
+      "size": 363,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\0c": {
+    "a83e242be1893eb49cbae3f119259ac1f424f9": {
+      "size": 204,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\0e": {
+    "6c79c1351fcb1d475c391f44f547129d907921": {
+      "size": 55,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\0f": {
+    "e5da64df19ccfacb9bdd16ca61f67e96c660e4": {
+      "size": 172,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\10": {
+    "5ce2da2d6447d11dfe32bfb846c3d5b199fc99": {
+      "size": 142,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\15": {
+    "61f0d579a2d039026facf5bd65a2144eceaa55": {
+      "size": 376,
+      "file_or_dir": "file"
+    },
+    "9ed39f66acb9c03aa02edc70ad4f2afb47ddd0": {
+      "size": 403,
+      "file_or_dir": "file"
+    },
+    "efbd303fa8e35b1c662bfb07ca0b3a1c00a16a": {
+      "size": 567,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\17": {
+    "6da9c639b3041b38e34f7a067db5994eeee2f3": {
+      "size": 188,
+      "file_or_dir": "file"
+    },
+    "9cf73de2a886db7ad265987051aa9d0147dc6a": {
+      "size": 347,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\19": {
+    "58df4cdfb1b689da5bd5245ae85efb976f8c94": {
+      "size": 152,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\1b": {
+    "151ba70cb9a7879e4f15afa13eede073a9dc64": {
+      "size": 387,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\1c": {
+    "cd8e9ff287a667fa6a378bfbe6f1b3107cfed8": {
+      "size": 142,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\1f": {
+    "dd3317b044bdb2a99b2c6519bc6b7c9d655649": {
+      "size": 162,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\22": {
+    "0a66118aef6d5decec2942da849b2262554c83": {
+      "size": 110,
+      "file_or_dir": "file"
+    },
+    "91f80353249331050214c5ff76c6ca3d451696": {
+      "size": 80,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\24": {
+    "1521b92b10df1e730b109e3c0a843cac84218d": {
+      "size": 188,
+      "file_or_dir": "file"
+    },
+    "2e871546e59cfb0a755f369a2f225954bdda6a": {
+      "size": 325,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\26": {
+    "d33521af10bcc7fd8cea344038eaaeb78d0ef5": {
+      "size": 63,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\27": {
+    "7626ea131b7fe77220bbb5d2196001a036a63b": {
+      "size": 1130,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\28": {
+    "402be6624c478dd811ab5f5a1ba5199fe71e92": {
+      "size": 413,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\29": {
+    "1eb922be637225ca538d4cebb371b0c8ededef": {
+      "size": 109,
+      "file_or_dir": "file"
+    },
+    "2cac5a6cf8272a9ba5a2491d6690d65e323575": {
+      "size": 79,
+      "file_or_dir": "file"
+    },
+    "884aad04ba141eb759400e9712e9cf7c9b3916": {
+      "size": 374,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\2f": {
+    "0a89f871d70d06c040baf0ae9ba03b7815b1b2": {
+      "size": 386,
+      "file_or_dir": "file"
+    },
+    "3e7b4c8ac0691aecab94f2ef568e0e1e917450": {
+      "size": 162,
+      "file_or_dir": "file"
+    },
+    "cc877994f91591e6aef13e7a5001dc45d7481b": {
+      "size": 441,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\32": {
+    "84c99d3182e07a2ddd3e61e42134472feedb56": {
+      "size": 140,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\33": {
+    "aaa858ee484d9a1d6eec172d9304590c1f2144": {
+      "size": 154,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\35": {
+    "eb1ddfbbc029bcab630581847471d7f238ec53": {
+      "size": 140,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\37": {
+    "b127cf7d75afb868658221150670fcda4b2021": {
+      "size": 445,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\39": {
+    "4640ec0dd93aa7da54678a6f8ea668ff2a78de": {
+      "size": 233,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\3a": {
+    "fdcba8b097621a2aa7dbb6406541cd7d326c34": {
+      "size": 298,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\40": {
+    "6412049004801264f96a6f569e4b5798edf74b": {
+      "size": 110,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\41": {
+    "563797b40e1ac4be4e8eb1218fafd8d554dff2": {
+      "size": 869,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\44": {
+    "1bab8fb5a81796549c4807aed998be4ffe22f5": {
+      "size": 96,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\46": {
+    "978d447a8fdebd72ff0c61d5e5d50ac76a2bb5": {
+      "size": 259,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\48": {
+    "e1b30234cc365c847c6bf3de756006d6ead58e": {
+      "size": 697,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\4e": {
+    "eec34e26ba71ac0a902f7b9840dedb5ee19502": {
+      "size": 881,
+      "file_or_dir": "file"
+    },
+    "f5f61dc24efdae3351018d014b64a74dc49ba1": {
+      "size": 337,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\4f": {
+    "00c134390cbbabdfdd6e3419cc5c6f6b8e8631": {
+      "size": 259,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\51": {
+    "040f817a2d41db76db3ae210709fa1765b4ec2": {
+      "size": 358,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\53": {
+    "eb004d46a7388043c3d231dfbdc5089f3c1d45": {
+      "size": 179,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\54": {
+    "4da9ae1b3b4af1a4d97c84fa4ab42c529526ec": {
+      "size": 339,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\56": {
+    "571d073bcc50512017c656b9f822f587fc7680": {
+      "size": 115,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\57": {
+    "3ed4fa77b8601fd8ea3bdbebaf25f60af1129e": {
+      "size": 566,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\59": {
+    "cd77a5eaefd72d120fe37f98887695757fd3c1": {
+      "size": 315,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\5b": {
+    "34c1bbcf4111cb62b411a55712777313a3340f": {
+      "size": 51,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\5d": {
+    "3de2a8790b7f6b5ba462353e9a9619ce77f056": {
+      "size": 73,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\60": {
+    "a55dd55426803aaa4dafe5558871fbb530a24b": {
+      "size": 79,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\63": {
+    "fc4d9cfb05f574ac721266571a42ce6b71cb7e": {
+      "size": 389,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\6a": {
+    "240f8faaf4618dcb793c1af73819554d4fbf21": {
+      "size": 480,
+      "file_or_dir": "file"
+    },
+    "d9e2f4690a88f0ee344269458566a187e8ed5c": {
+      "size": 73,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\72": {
+    "318c4b1881da8c9ceed73101523586dabe46af": {
+      "size": 704,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\73": {
+    "8606770ad5c7238ffb99c9e01d2177e043d9dc": {
+      "size": 162,
+      "file_or_dir": "file"
+    },
+    "9723bcc357582212267d8067db42a3b54877fa": {
+      "size": 409,
+      "file_or_dir": "file"
+    },
+    "baa4252a78499f32a0601dbb6a19bbb5dab2e6": {
+      "size": 234,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\78": {
+    "a69508425e9d57d3c83f58b15e11857a22b5da": {
+      "size": 271,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\79": {
+    "ebeba1e6500b92c43624eb20fb6071f73eb24a": {
+      "size": 529,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\7f": {
+    "8ed5d43566b1f3427299dca48bcb077863a507": {
+      "size": 515,
+      "file_or_dir": "file"
+    },
+    "c0addd09bbd8e26cd78dfac4048a092a495006": {
+      "size": 136,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\83": {
+    "60f7a356999cf595332ecc2940c690eaadaeee": {
+      "size": 378,
+      "file_or_dir": "file"
+    },
+    "fa87bd6f452df68ed1ee88487950314854fb84": {
+      "size": 156,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\85": {
+    "104ee08a50efa32c9ea80f5c2eeab0244f3dee": {
+      "size": 229,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\88": {
+    "53a0338dd1c2e40c5d4b245051b9d0ac6adada": {
+      "size": 79,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\8b": {
+    "664972cbe2cf93167a742e1dd7bd9e1197543b": {
+      "size": 135,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\8e": {
+    "ad0bbd743c64cdcbf95f5be10b699d80c62188": {
+      "size": 230,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\8f": {
+    "8b2fd624d7526e19e72947381f78b77ae46393": {
+      "size": 165,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\90": {
+    "d0bff354004d8f392bf897208e25064e8dd499": {
+      "size": 172,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\92": {
+    "4d015f5757406fee742565a58094c7ea485d78": {
+      "size": 82,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\94": {
+    "b4408cf5e02ec559ec4055082fedda1564e4a5": {
+      "size": 443,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\95": {
+    "7d62d458c46554b1125535cb983f4a8fee2a31": {
+      "size": 920,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\96": {
+    "03c82910f4fd20a8bcc3b92bbb983b5367a508": {
+      "size": 236,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\97": {
+    "824ec9b0149e48c91dce4fee530335b327c686": {
+      "size": 66,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\98": {
+    "fb90d12620db2dccbdadde1beddc39abffef52": {
+      "size": 395,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\99": {
+    "04ff103e49c9634cfd02bac12071cfe1d8feee": {
+      "size": 158,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\9c": {
+    "1d77e414467a254e43fd2625b2564ff64427ae": {
+      "size": 482,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\9d": {
+    "61f0f7f248fa3f33a14aa748c605e7eacde405": {
+      "size": 155,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\a3": {
+    "e2b3dcddfc5fc0bb7957afc932e7150db33cde": {
+      "size": 456,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\a4": {
+    "594351df6cb4462cfd395281af196c07baa7f5": {
+      "size": 156,
+      "file_or_dir": "file"
+    },
+    "fb7a70eb00648cee9efdaa479fefd87013359a": {
+      "size": 252,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\a9": {
+    "71a2c93136ccb7f8094a2783d905d33dff9163": {
+      "size": 147,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\ab": {
+    "db301c6bd9e57432053b5e99d915a2e43a05df": {
+      "size": 515,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\ac": {
+    "0197031e554c5395b3bdc3ea0cc17dd9652f98": {
+      "size": 301,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\ae": {
+    "669c91adab75dd2482e9f467ab29923a936edb": {
+      "size": 461,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\b1": {
+    "786f55a3e97e7960702cf7118f6a48925f8883": {
+      "size": 155,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\b2": {
+    "9f08611edd087332f998c98dea033b5302a882": {
+      "size": 284,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\b5": {
+    "53f99ae836053bfebd16c04638c17edae2e452": {
+      "size": 498,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\b9": {
+    "bdd72edde853275bc52746f39d701cbddafb01": {
+      "size": 781,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\c0": {
+    "a1d4737822498dc938bca1153d1e20758343b2": {
+      "size": 417,
+      "file_or_dir": "file"
+    },
+    "e0bee588908e4340ecdc2c899ad16986cd3cb9": {
+      "size": 385,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\c1": {
+    "2655c2c89fb7865653ea50e2ac104082154b5e": {
+      "size": 78,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\c3": {
+    "ad3d87034cc4e5bd357cdb9895fbbc8bf1b7cc": {
+      "size": 156,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\c6": {
+    "3d5f80ac0a2ae1b40e7c1f10e95adf8536265b": {
+      "size": 151,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\c7": {
+    "39b2c9ca3fa3af6f3e2d9a81ee27c95a23391d": {
+      "size": 387,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\c8": {
+    "e7a289e9e0db44e1023e473ea57ff854b39a8f": {
+      "size": 158,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\ca": {
+    "3c9386d973016ebc770b0f2d418b7e2b170131": {
+      "size": 214,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\cb": {
+    "17d44ce0840226b216f1d260080fa741087949": {
+      "size": 181,
+      "file_or_dir": "file"
+    },
+    "ca95231f6aabf2ca1005bd66a6f0fc1706ee60": {
+      "size": 820,
+      "file_or_dir": "file"
+    },
+    "ccec3c65b50983c24681cca56c0a85d7eb85d6": {
+      "size": 308,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\cc": {
+    "4e4ef4643215370a2b003f7c5c3605cf80d6fa": {
+      "size": 153,
+      "file_or_dir": "file"
+    },
+    "887d0cc85b928c3ec3e0146d312f2f6cc81fe0": {
+      "size": 204,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\cf": {
+    "b5fc39ad3aafe36ba56bce4f64af69f475861b": {
+      "size": 599,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\d0": {
+    "876a78d06ac03b5d78c8dcdb95570281c6f1d6": {
+      "size": 210,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\d1": {
+    "0ee48ecf64e01f1ce374f89355198537abad8f": {
+      "size": 161,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\d8": {
+    "85a310464dedf885ea5c0d0b5686783ce5f569": {
+      "size": 134,
+      "file_or_dir": "file"
+    },
+    "e832aadfb1e2b447e177fe96a11c34614fa3a0": {
+      "size": 237,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\d9": {
+    "ed013d9b14d7c459d6007e9bc85609695ce7c1": {
+      "size": 179,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\da": {
+    "238587e51afd6f1867096e65072fff23aa532c": {
+      "size": 166,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\de": {
+    "da8a433c20fe7f477ee819259e1836a862c7b3": {
+      "size": 308,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\df": {
+    "b4fd745565ffc3d39240f8914b8e4c75b88b18": {
+      "size": 333,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\e0": {
+    "f1f645a31b250a3bf45da6d7abc3cd917621c3": {
+      "size": 115,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\e1": {
+    "ac9e6229dce20006b7fdc7a5d62087d0a2d3d5": {
+      "size": 275,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\e3": {
+    "26d7a5534fa07b84b97e2fea3da3d48ab94e5e": {
+      "size": 650,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\e6": {
+    "5aed5ebf38275c4b6b0b07bd98346a7b33a296": {
+      "size": 153,
+      "file_or_dir": "file"
+    },
+    "9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
+      "size": 15,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\e9": {
+    "498438e31b8cacdf4edf6f00acc11a83c524eb": {
+      "size": 421,
+      "file_or_dir": "file"
+    },
+    "6dcb5d32698c80ebab8f147dace41a4a7ded1f": {
+      "size": 338,
+      "file_or_dir": "file"
+    },
+    "a8262e124647e0dfb484e219e8f996b00c00e9": {
+      "size": 107,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\ed": {
+    "2b7e018f78f683d918397f98774c288dec5cfa": {
+      "size": 141,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\ee": {
+    "8fb91eea88fcdfae4bb9ba0d44676e86cc1fde": {
+      "size": 154,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\ef": {
+    "1c92f127af0f9d1024351cc6f6e26ffcfa50a2": {
+      "size": 211,
+      "file_or_dir": "file"
+    },
+    "3b8ee928dfea85457638f1cc89351abd0c53da": {
+      "size": 258,
+      "file_or_dir": "file"
+    },
+    "b14a7228741c477afb4d16fdc20026ce050821": {
+      "size": 165,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\f2": {
+    "be12d415d6c411f15aec2cf2f61698357511c9": {
+      "size": 107,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\f4": {
+    "565c25564e812d15fd78cf38e56e36bea0bb69": {
+      "size": 640,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\f9": {
+    "bd003ab1b691293dfb818d615719a5058fd221": {
+      "size": 191,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\fc": {
+    "ee010cfb70c46c2df399f2116b3c9ffc5bafb1": {
+      "size": 457,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\info": {},
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\objects\\pack": {
+    "pack-3e550c5ee52a96b2d73644642f944bb962f9f3b3.idx": {
+      "size": 1156,
+      "file_or_dir": "file"
+    },
+    "pack-3e550c5ee52a96b2d73644642f944bb962f9f3b3.pack": {
+      "size": 1567,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\refs": {
+    "heads": {
+      "size": 41,
+      "file_or_dir": "directory"
+    },
+    "remotes": {
+      "size": 71,
+      "file_or_dir": "directory"
+    },
+    "tags": {
+      "size": 0,
+      "file_or_dir": "directory"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\refs\\heads": {
+    "main": {
+      "size": 41,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\refs\\remotes": {
+    "origin": {
+      "size": 71,
+      "file_or_dir": "directory"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\refs\\remotes\\origin": {
+    "HEAD": {
+      "size": 30,
+      "file_or_dir": "file"
+    },
+    "main": {
+      "size": 41,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.git\\refs\\tags": {},
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.idea": {
+    "inspectionProfiles": {
+      "size": 174,
+      "file_or_dir": "directory"
+    },
+    ".gitignore": {
+      "size": 50,
+      "file_or_dir": "file"
+    },
+    "misc.xml": {
+      "size": 189,
+      "file_or_dir": "file"
+    },
+    "modules.xml": {
+      "size": 283,
+      "file_or_dir": "file"
+    },
+    "Python-Basic.iml": {
+      "size": 291,
+      "file_or_dir": "file"
+    },
+    "vcs.xml": {
+      "size": 172,
+      "file_or_dir": "file"
+    },
+    "workspace.xml": {
+      "size": 12870,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\.idea\\inspectionProfiles": {
+    "profiles_settings.xml": {
+      "size": 174,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Home_work_seminar1": {
+    "task1.py": {
+      "size": 1247,
+      "file_or_dir": "file"
+    },
+    "task2.py": {
+      "size": 837,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Home_work_seminar2": {
+    "task1.py": {
+      "size": 533,
+      "file_or_dir": "file"
+    },
+    "task2.py": {
+      "size": 723,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Home_work_seminar3": {
+    "HW_task1.py": {
+      "size": 1020,
+      "file_or_dir": "file"
+    },
+    "HW_task2.py": {
+      "size": 498,
+      "file_or_dir": "file"
+    },
+    "HW_task3.py": {
+      "size": 1475,
+      "file_or_dir": "file"
+    },
+    "HW_task4.py": {
+      "size": 661,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Home_work_seminar4": {
+    "HW_task1.py": {
+      "size": 812,
+      "file_or_dir": "file"
+    },
+    "HW_task2.py": {
+      "size": 357,
+      "file_or_dir": "file"
+    },
+    "HW_task3.py": {
+      "size": 702,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Home_work_seminar5": {
+    "HW_task1.py": {
+      "size": 611,
+      "file_or_dir": "file"
+    },
+    "HW_task2.py": {
+      "size": 795,
+      "file_or_dir": "file"
+    },
+    "HW_task3.py": {
+      "size": 313,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Home_work_seminar6": {
+    "HW_task1.py": {
+      "size": 1463,
+      "file_or_dir": "file"
+    },
+    "HW_task2.py": {
+      "size": 1284,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\home_work_seminar7": {
+    "seminar_7": {
+      "size": 12653,
+      "file_or_dir": "directory"
+    },
+    "data2.txt": {
+      "size": 75,
+      "file_or_dir": "file"
+    },
+    "data3.txt": {
+      "size": 54,
+      "file_or_dir": "file"
+    },
+    "dlgPY0003.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "hw_task1.py": {
+      "size": 2474,
+      "file_or_dir": "file"
+    },
+    "hw_task2.py": {
+      "size": 1749,
+      "file_or_dir": "file"
+    },
+    "mdlPY0002.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "nkPY0001.py": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "open_file.txt": {
+      "size": 101,
+      "file_or_dir": "file"
+    },
+    "test.py": {
+      "size": 215,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\home_work_seminar7\\seminar_7": {
+    "__pycache__": {
+      "size": 8098,
+      "file_or_dir": "directory"
+    },
+    "data.txt": {
+      "size": 118,
+      "file_or_dir": "file"
+    },
+    "name.txt": {
+      "size": 66,
+      "file_or_dir": "file"
+    },
+    "open_file.txt": {
+      "size": 144,
+      "file_or_dir": "file"
+    },
+    "s7_task1.py": {
+      "size": 947,
+      "file_or_dir": "file"
+    },
+    "s7_task2.py": {
+      "size": 1033,
+      "file_or_dir": "file"
+    },
+    "s7_task3.py": {
+      "size": 2015,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 232,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\home_work_seminar7\\seminar_7\\__pycache__": {
+    "s7_task1.cpython-311.pyc": {
+      "size": 1736,
+      "file_or_dir": "file"
+    },
+    "s7_task2.cpython-311.pyc": {
+      "size": 1945,
+      "file_or_dir": "file"
+    },
+    "s7_task3.cpython-311.pyc": {
+      "size": 3886,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-311.pyc": {
+      "size": 531,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\home_work_seminar8": {
+    "filework": {
+      "size": 15086,
+      "file_or_dir": "directory"
+    },
+    "direct_info.csv": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "direct_info.json": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "direct_info.pickle": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "file_json.json": {
+      "size": 176,
+      "file_or_dir": "file"
+    },
+    "hw_task1.py": {
+      "size": 2716,
+      "file_or_dir": "file"
+    },
+    "ident.json": {
+      "size": 153,
+      "file_or_dir": "file"
+    },
+    "open_file.txt": {
+      "size": 144,
+      "file_or_dir": "file"
+    },
+    "test_filework.py": {
+      "size": 282,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\home_work_seminar8\\filework": {
+    "__pycache__": {
+      "size": 9675,
+      "file_or_dir": "directory"
+    },
+    "convert.py": {
+      "size": 991,
+      "file_or_dir": "file"
+    },
+    "get_dir_information.py": {
+      "size": 2753,
+      "file_or_dir": "file"
+    },
+    "ident.py": {
+      "size": 1612,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 55,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\home_work_seminar8\\filework\\__pycache__": {
+    "convert.cpython-311.pyc": {
+      "size": 1960,
+      "file_or_dir": "file"
+    },
+    "get_dir_information.cpython-311.pyc": {
+      "size": 4949,
+      "file_or_dir": "file"
+    },
+    "ident.cpython-311.pyc": {
+      "size": 2480,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-311.pyc": {
+      "size": 286,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Seminar_3": {
+    "S3_task1.py": {
+      "size": 536,
+      "file_or_dir": "file"
+    },
+    "S3_task2.py": {
+      "size": 834,
+      "file_or_dir": "file"
+    },
+    "S3_task3.py": {
+      "size": 587,
+      "file_or_dir": "file"
+    },
+    "S3_task4.py": {
+      "size": 396,
+      "file_or_dir": "file"
+    },
+    "S3_task5.py": {
+      "size": 490,
+      "file_or_dir": "file"
+    },
+    "S3_task6.py": {
+      "size": 749,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Seminar_4": {
+    "S4_task1.py": {
+      "size": 839,
+      "file_or_dir": "file"
+    },
+    "S4_task2.py": {
+      "size": 540,
+      "file_or_dir": "file"
+    },
+    "S4_task3.py": {
+      "size": 704,
+      "file_or_dir": "file"
+    },
+    "S4_task4.py": {
+      "size": 653,
+      "file_or_dir": "file"
+    },
+    "S4_task5.py": {
+      "size": 903,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Seminar_5": {
+    "S5_task1.py": {
+      "size": 787,
+      "file_or_dir": "file"
+    },
+    "S5_task2.py": {
+      "size": 532,
+      "file_or_dir": "file"
+    },
+    "S5_task3.py": {
+      "size": 514,
+      "file_or_dir": "file"
+    },
+    "S5_task4.py": {
+      "size": 362,
+      "file_or_dir": "file"
+    },
+    "S5_task5.py": {
+      "size": 1019,
+      "file_or_dir": "file"
+    },
+    "S5_task6.py": {
+      "size": 621,
+      "file_or_dir": "file"
+    },
+    "S5_task7.py": {
+      "size": 642,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Seminar_6": {
+    "__pycache__": {
+      "size": 3969,
+      "file_or_dir": "directory"
+    },
+    "s6_task1.py": {
+      "size": 375,
+      "file_or_dir": "file"
+    },
+    "S6_task2.py": {
+      "size": 1294,
+      "file_or_dir": "file"
+    },
+    "S6_task3.py": {
+      "size": 1320,
+      "file_or_dir": "file"
+    },
+    "S6_task4.py": {
+      "size": 927,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 36,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\Seminar_6\\__pycache__": {
+    "S6_task3.cpython-311.pyc": {
+      "size": 2048,
+      "file_or_dir": "file"
+    },
+    "S6_task4.cpython-311.pyc": {
+      "size": 1511,
+      "file_or_dir": "file"
+    },
+    "__init__.cpython-311.pyc": {
+      "size": 410,
+      "file_or_dir": "file"
+    }
+  },
+  "/Users/\u0422\u0430\u0442\u044c\u044f\u043d\u0430/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Python/Python-Basic\\seminar_8": {
+    "file_json.json": {
+      "size": 176,
+      "file_or_dir": "file"
+    },
+    "ident.json": {
+      "size": 120,
+      "file_or_dir": "file"
+    },
+    "open_file.txt": {
+      "size": 144,
+      "file_or_dir": "file"
+    },
+    "s8_task1.py": {
+      "size": 968,
+      "file_or_dir": "file"
+    },
+    "s8_task2.py": {
+      "size": 1589,
+      "file_or_dir": "file"
+    }
+  }
+}

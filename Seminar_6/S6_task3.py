@@ -4,6 +4,8 @@
 Строка должна принимать от 1 до 3 аргументов: параметры вызова функции.
 Для преобразования строковых аргументов командной строки в числовые параметры используйте генераторное выражение
 """
+__all__ = ['guess']
+
 
 from sys import argv
 import random as rnd
@@ -23,13 +25,13 @@ def guess(down: int = 0, up: int = 100, chanse: int = 5) -> bool:
             return True
     return False
 
-if __name__ == '__main__':
-    tmp, *param = argv
 
-        #down = int(input('Enter number: '))
-        #up = int(input('Enter number: '))
-        #chanse = int(input('Enter number: '))
-        #print(guess(down, up, chanse))
-    print(guess(*(int(n) for n in param)))
+if __name__ == '__main__':
+    #tmp, *param = argv
+    down = int(input('Enter number: '))
+    up = int(input('Enter number: '))
+    chanse = int(input('Enter number: '))
+    print(guess(down, up, chanse))
+    #print(guess(*(int(n) for n in param)))
 
 #python S6_task3.py 2 10 3

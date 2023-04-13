@@ -7,6 +7,9 @@ import random as rnd
 
 __all__ = ['gen_name']
 
+glas_str = 'аеуиыяюоэ'
+sogl_str = 'йцкнгшщзхфвпрлджчсмтб'
+
 
 def gen_name(cnt_line: int, file_name: str):
     with open(file_name, 'w', encoding='utf-8') as f:
@@ -16,12 +19,9 @@ def gen_name(cnt_line: int, file_name: str):
                 result_str += glas_str[rnd.randint(0, len(glas_str)-1)] \
                         + sogl_str[rnd.randint(0, len(sogl_str)-1)]
             result_str = result_str.capitalize()
-            print(result_str)
+            #print(result_str)
             f.write(f'{result_str}\n')
 
 
-if __name__ == '__main__':
-    glas_str = 'аеуиыяюоэ'
-    sogl_str = 'йцкнгшщзхфвпрлджчсмтб'
-    gen_name(5, 'name.txt')
+#gen_name(5, 'name.txt')
 

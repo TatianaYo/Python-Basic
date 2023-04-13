@@ -14,8 +14,6 @@ import pathlib
 
 
 def rename_group_file(quan_in_num: int, ext: str, new_ext: str, interval: list[int], new_name=''):
-    current_dir = os.getcwd()
-    print(current_dir)
     count = 0
     for file in os.listdir():
         if file.endswith(ext):

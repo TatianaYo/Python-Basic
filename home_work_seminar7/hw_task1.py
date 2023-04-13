@@ -9,26 +9,39 @@
 ✔ Имя файла и его размер должны быть в рамках переданного диапазона.
 """
 import random as rnd
-import os
 
 
-glas_str = 'аеуиыяюоэ'
-sogl_str = 'йцкнгшщзхфвпрлджчсмтб'
+letters = 'qwertyuiopasdfghjklzxcvbnm'
 
 
-def create_file(expan: str, min_len=6, max_len=30, min_num=256, max_num=4096, quan_file=42):
+def create_file(extens: str, min_len=6, max_len=30, min_num=256, max_num=4096, quan_file=42):
     for _ in range(quan_file):
         file_name = ''
-        for i in range(rnd.randint(min_len, max_len)): #создаем имя
-            file_name += glas_str[rnd.randint(0, len(glas_str)-1)] \
-                    + sogl_str[rnd.randint(0, len(sogl_str)-1)]
-        with open('text.txt', 'wb') as f: #создаем файл
-            for j in range(rnd.randint(min_num, max_num)): #записываем количество байт
-                f.write(b'j')
-        f_name = os.path.splitext('text.txt')[0]
-        exp = os.path.splitext('text.txt')[-1]
-        f_name, exp = file_name, expan
-        os.rename('text.txt', file_name + expan)
+        for i in range(rnd.randint(min_len, max_len)):  #создаем имя
+            file_name += letters[rnd.randint(0, len(letters) - 1)]
+
+        for x in range(rnd.randint(min_num, max_num)): #записываем количество байт
+            by = bytes(x)
+
+        with open(f'{file_name}.{extens}', 'wb') as f: #создаем файл
+            f.write(by)
 
 
-create_file('.bin')
+#create_file('pdf', 7, 9, 4, 8, 3)
+"""
+✔ Доработаем предыдущую задачу.
+✔ Создайте новую функцию которая генерирует файлы с разными расширениями.
+✔ Расширения и количество файлов функция принимает в качестве параметров.
+✔ Количество переданных расширений может быть любым.
+✔ Количество файлов для каждого расширения различно.
+✔ Внутри используйте вызов функции из прошлой задачи.
+"""
+
+
+def new_create_file(extension: dict):
+    for ext, quan in extension.items():
+        create_file(ext, 7, 9, 6, 10, quan)
+
+
+mk_file = {'txt': 2, 'pdf': 2, 'py': 1}
+new_create_file(mk_file)

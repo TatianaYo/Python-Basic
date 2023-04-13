@@ -39,5 +39,4 @@ def open_file(a: str, b: str) -> None:
                 f3.write(f'{text.upper()}, {round(res)}\n')
 
 
-if __name__ == '__main__':
-    open_file('name.txt', 'data.txt')
+#open_file('name.txt', 'data.txt')

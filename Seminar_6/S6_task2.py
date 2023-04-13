@@ -7,6 +7,7 @@
 """
 import random as rnd
 
+
 def guess(down: int, up: int, chanse: int) -> bool:
     number = rnd.randint(down, up)
     count = 0
@@ -21,7 +22,6 @@ def guess(down: int, up: int, chanse: int) -> bool:
         else:
             return True
     return False
-
 
 
 if __name__ == '__main__':
