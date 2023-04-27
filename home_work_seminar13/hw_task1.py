@@ -1,64 +1,44 @@
 """
-Доработаем задачи 3 и 4. Создайте класс проекта, который имеет следующие методы:
--загрузка данных (функция из задания 4)
--вход в систему - требует указать имя и id пользователя. Для проверки наличия пользователя в множестве используйте
-магический метод проверки на равенство пользователей. Если такого пользователя нет, вызывайте исключение
-доступа. А если пользователь есть, получите его уровень из множества пользователей.
--добавление пользователя. Если уровень пользователя меньше, чем ваш уровень, вызывайте исключение уровня доступа.
+Создайте класс прямоугольник.
+Класс должен принимать длину и ширину при создании экземпляра.
+У класса должно быть два метода, возвращающие периметр и площадь.
+Если при создании экземпляра передаётся только одна сторона, считаем что у нас квадрат.
 """
-import json
 
 
 class UserException(Exception):
     pass
 
 
-class LevelError(UserException):
+class RectangleValueError(UserException):
     def __str__(self):
-        print('error level')
+        return 'Значение должно быть положительным'
 
 
-class AccessError(UserException):
+class RectangleValueTypeError(UserException):
     def __str__(self):
-        print('error access')
+        return 'Значение должно быть числом'
 
 
-class User:
+class Rectangle:
 
-    def __init__(self, name: str, id_: int, level: int):
-        self.name = name
-        self.id_ = id_
-        self.level = level
+    def __init__(self, length, width=None):
+        if isinstance(length, str) or isinstance(width, str):
+            raise RectangleValueTypeError
+        self.length = float(length)
+        if width is None:
+            self.width = float(length)
+        else:
+            self.width = float(width)
+        if self.length <= 0 or self.width <= 0:
+            raise RectangleValueError
 
-    def __eq__(self, other):
-        return self.id_ == other.id_ and self.name == other.name
+    def rectangle_perimeter(self):
+        return (self.length + self.width) * 2
 
-
-class Project:
-
-    def __init__(self) -> None:
-        self.users = set()
-        self.user = None
-
-    def read_json(self, file_name: str):
-        with open(file_name, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-
-        for level, value in data.items():
-            for id_, name in value.items():
-                self.users.add(User(name=name, id_=int(id_), level=int(level)))
-        return self.users
-
-    def enter(self, name: str, id_: int):
-        u1 = User(name=name, id_=id_, level=0)
-        if u1 not in self.users:
-            raise AccessError
-        for item in self.users:
-            if u1 == item:
-                self.user = item
-                return self.user
-
-    def add_user(self):
-        pass
+    def rectangle_square(self):
+        return self.length * self.width
 
 
+rectangle = Rectangle(5, 6)
+print(f'Периметр = {rectangle.rectangle_perimeter()}\nПлощадь = {rectangle.rectangle_square()}')
