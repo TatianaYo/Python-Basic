@@ -27,7 +27,7 @@ def test_registr():
 
 
 def test_punctuation():
-    assert literal('Hello world!!!')  == 'hello world'
+    assert literal('Hello world!!!') == 'hello world'
 
 
 def test_language():
